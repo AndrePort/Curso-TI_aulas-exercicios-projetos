@@ -1,0 +1,14 @@
+//biblioteca para execução de recursos básicos do computador
+using System;
+
+//declaração de uma CLASSE pública com o nome de program
+public class Program
+{
+	//declaração de um método ESTÁTICO com o nome MAIN
+	public static void Main()
+	{
+	    Console.WriteLine("Boa noite");
+		Console.WriteLine("Meu nome é: André. ");
+		Console.WriteLine("E, tenho 19 anos. ");
+	}
+}

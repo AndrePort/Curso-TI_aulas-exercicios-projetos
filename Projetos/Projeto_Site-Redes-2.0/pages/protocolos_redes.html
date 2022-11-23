@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protocolos de redes</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+</head>
+<style>
+
+    
+</style>
+<body>
+    <link rel="stylesheet" href="../CSS/style.css">
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <!-- ele vai justificar todas as colunas-->
+            <div class="col-12">
+                <div class="card shadow bg-rosa my-4 py-4 px-5">
+                    <!-- px espaçamento interno no eixo X e py no Y-->
+                    <!-- Menu do site-->
+                    <nav>
+                        <ul>
+                            <li><a href="../index.html"><button>Inicio</button></a></li>
+                            <li><a href="protocolos_redes.html"><button>Protocolos de rede</button></a></li>
+                            <li><a href="../pages/Redes.html    "><button>Redes</button></a></li>
+                            <li><a href="../pages/Topologia_rede.html"><button>Topologia de redes</button></a></li>
+                        </ul>
+                    </nav>
+                    <!-- conteúdo-->
+                    <div class="col-md-auto mt-4 mb-3">
+                        <h1>🌐 Protocolos de rede</h1>
+                    </div>
+
+                    <div class="example">
+                        <p style="color:coral">
+                            <p class="texto-branco fundo-coral teste-box-model">
+                                Os protocolos de Rede são regras que permitem a comunicação entre computadores
+                                conectados<br>
+                                na internet. Neste artigo, você aprender mais sobre os principais protocolos de rede, como
+                                funcionam<br>
+                                e os tipos de cada um.
+                            </p>
+                        </p>
+                    </div>
+
+                    <!-- Titulo-->
+                    <div class="col-md-auto mt-4 mb-3">
+                        <h1>🌎 Tipos de Protocolos de Rede</h1>
+                    </div>
+
+                    <!-- Imagem-->
+                    <div class="container">
+                        <div class="d-flex justify-content-center">
+                            <img src="../img/Telecommuting-pana.png" class="rounded float-left" wight="500px"; height="500px"
+                                alt="cara mexendo no celuar" id="imgpos"/>
+
+                            <!-- Tabela-->
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <table class="table">
+                                        <thead class="table-orange">
+                                            <tr>
+                                                <th scope="col">#</th>
+                                                <th scope="col-8">Protocolos de Rede</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>Protocolo TCP/IP</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>Protocolo HTTP</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo HTTPS</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo DHCP</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo FTP</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo SFTP</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo SSH</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo POP3</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo SMTP</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Protocolo IMAP</td>
+                                            </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Titulo-->
+                    <div class="col-md-auto mt-4 mb-3">
+                        <h1>🌎 Modelo OSI</h1>
+                    </div>
+
+                    <div class="example">
+                        <p style="color:coral">
+                        <p class="texto-branco fundo-coral teste-box-model">
+                            O modelo Interconexão de Sistemas Abertos (OSI) é um modelo conceitual criado pela Organização Internacional de Normalização que permite que diversos sistemas de comunicação se comuniquem usando protocolos padronizados. Em poucas palavras, o OSI fornece um padrão para que diferentes sistemas de computadores possam se comunicar.
+                            O modelo OSI pode ser visto como uma linguagem universal para Redes de computadores. É baseado no conceito de dividir um sistema de comunicação em sete camadas abstratas, empilhadas umas sobre as outras.
+                    </div>
+
+                    <!-- Titulo-->
+                    <div class="col-md-auto mt-4 mb-3">
+                        <h1>🌎 O protocolo ARP</h1>
+                    </div>
+                    
+                    <div class="example">
+                        <p style="color:coral">
+                            <p class="texto-branco fundo-coral teste-box-model">
+                                O protocolo ARP (Address Resolution Protocol ou, em português, Protocolo de Resolução de Endereço) tem um papel fundamental entre os protocolos da suíte TCP/IP, porque permite conhecer o endereço físico de uma placa de rede que corresponde a um endereço IP.
+                                Cada máquina ligada à rede possui um número de identificação de 48 bits. Esse número é único e fixado a partir da fabricação da placa na fábrica. Contudo, a comunicação na Internet não é feita diretamente a partir desse número (porque seria necessário alterar o endereçamento dos computadores cada vez que se alterasse uma placa de rede), mas a partir de um endereço lógico, o endereço IP (https://br.ccm.net/contents/269-endereco-ip).
+                                Assim, para fazer a correspondência entre endereços físicos e endereços lógicos, o protocolo ARP interroga as máquinas da rede para conhecer o seu endereço físico e depois cria uma tabela de correspondência entre os endereços lógicos e os endereços físicos em uma memória secreta. Quando uma máquina tem que se comunicar com outra, ela consulta a tabela.
+                            </p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+<foot>
+    <div class="row">
+        <div class="col-12">
+            <div class="container">
+                <div class="card shadow py-4 px-5 mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title text-start">🔎 Bibliografia</h5>
+                        <p class="card-text text-start">
+                            <a href="https://www.weblink.com.br/blog/tecnologia/conheca-os-principais-protocolos-de-internet/"
+                                target="_blank">
+                                https://www.weblink.com.br/blog/tecnologia/conheca-os-principais-protocolos-de-internet/
+                                <br>
+                            </a>
+                            <a href="https://efagundes.com/artigos/como-funciona-a-internet/" target="_blank">
+                                https://efagundes.com/artigos/como-funciona-a-internet/
+                                <br>
+                            </a>
+                            <a href="https://www.uniaogeek.com.br/redes-de-comunicacao-de-dados-comutacao/" target="_blank">
+                                https://www.uniaogeek.com.br/redes-de-comunicacao-de-dados-comutacao/
+                                <br>
+                            </a>
+                            <a href="https://www.materias.com.br/tecnologica/o-que-e-internet-e-as-redes-de-computadores.html"
+                                target="_blank">
+                                https://www.materias.com.br/tecnologica/o-que-e-internet-e-as-redes-de-computadores.html
+                                <br>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</foot>
+</html>

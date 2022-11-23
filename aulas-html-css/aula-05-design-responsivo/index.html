@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula-05-design-responsivo</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+
+        /*
+        ========================================================
+        Menu do Site / linguagem de marcação
+        ========================================================
+        */
+        nav ul{
+            list-style-type: none; /*retira o marcador da lista*/
+            background-color: #512DA8;
+        }
+
+        nav ul li{
+            padding: 10px;
+            transition: 0.2s; /* delay ida e vota*/
+        }
+
+        nav ul li:hover{
+            background-color: #03A9F4;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        /*
+        ========================================================
+        Catálogo de Filmes
+        ========================================================
+        */
+        .catalogo-filmes{
+            margin: 20px 40px;
+            display: flex;
+            flex-wrap: wrap;  /* desloca o "catalogo" para baixo de acordo com o tamanho da tela*/
+            justify-content: center; /*centraliza blocos*/
+        }
+
+        .filme{
+            margin: 0px 5px;
+        }
+
+        .filme img{
+            width: 80vw; /*view width = se adaptam a largura do elemento perfeitamente*/
+        }
+
+        /*
+        Largura media(TABLET)
+        Se a largura da tela for MAIOR que 600px*/
+        @media screen and (min-width:600px){
+            nav li{
+                display: inline-block; /*inline-block 'deixa o bloco(nav li) todo na mesma linha'*/
+            }
+
+            .filme img{
+                width: 20vw;
+            }
+        }
+
+        /* Largura grande(COMPUTADOR)
+        Se a largura da tela for MAIOR que 900px*/
+        @media screen and (min-width:900px){
+            nav li{
+                display:inline-block;
+            }
+
+            .fim img{
+                width:15vw;
+                max-width: 300px;/*valor fixo*/
+            }
+/*CPM = custo mor mil, a cada 1000 visitas vc é remonerado*/
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Menu do site -->
+    <nav>
+        <ul>
+            <li> <a href="http://">Item 01</a> </li>
+            <li> <a href="http://">Item 01</a> </li>
+            <li> <a href="http://">Item 01</a> </li>
+        </ul>
+    </nav>
+
+    <!-- Catálogo de Filmes -->
+    <section class="catalogo-filmes">
+
+        <figcaption></figcaption> -->1+                                                                                         
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" alt="">
+            </a>
+        </div><!-- fim do Filme -->
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg" alt="">
+            </a>
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg" alt="">
+            </a>
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txp0Wm5MGTYRJopAC015VRanBab.jpg" alt="">
+            </a>
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" alt="">
+            </a>
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eDHOutMxLMgComnVhUK0Xfwunu5.jpg" alt="">
+            </a>
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg" alt="">
+            </a> 
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" alt="">
+            </a>
+        </div>
+
+        <div class="filme">
+            <a href="">
+                <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4U14Pvs9CLU8eHTHbLSNaFoYD43.jpg" alt="">
+            </a>
+        </div>
+        
+
+    </section>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo Classe e Pseudo elementos</title>
+
+    <style>
+        /*
+        +-----------------------------------------------+
+        |                Pseudo Classe                  |
+        +-----------------------------------------------+
+        */
+        button{
+            background-color: orchid;
+            color: white;
+            border:none;
+            padding: 15px;
+            transition: 0.25s;
+            font-weight: bold;
+            cursor: pointer ;
+            border-radius: 0px 0px 0px 0px;
+        }
+
+        button:hover{
+            background-color: black;
+            color:red;
+            width: 200px;            
+            text-decoration: underline;
+            padding: 15px ;
+            border-radius: 0px 5px 5px 0px;
+            transition: 3;
+            box-shadow: 2px 2px 2px 2px #d9d9d9;
+        }
+
+        a:link{
+            color:yellowgreen;
+        }
+
+        a:visited{
+            color:pink;
+        }
+
+        a:active{
+            color: lightblue;
+        }
+                /*
+        +-----------------------------------------------+
+        |                Pseudo Elemento                 |
+        +-----------------------------------------------+
+        */
+        .exemplo1::first-line{ /* primeira linha do texto em "p" em azul*/ 
+            color:blue;
+        }
+
+        p::selection{
+            color:darkcyan;
+            background-color:darkred;
+        }
+
+        .exemplo2::first-letter{
+            text-transform: uppercase;
+            font-size: 50px;
+            background: purple;
+            color:brown;
+        }
+    </style>
+</head>
+<body>
+    <!-- Resumin -->
+    <!-- Pseudo Elemento: muda parte de um elemento Ex.: Aplicar um efeito na primeira linha de um texto -->
+    <!-- Pseudo Classe: so vai por meio de um gatilho para ser ativada ou desativada Ex.: Colocar mouse em cima de uma palavra troca a cor dela -->
+
+    <!-- Pseudo classe Exemplo 01 -->
+    <button >O que é rede</button><br>
+    <button >Modelo OSI</button><br>
+    <button >Modo TCP</button><br>
+    <button >O que é IP?</button><br>
+
+    <br><br>
+    <!-- Pseudo classe Exemplo 02 -->
+    <a href="https://www.google.com">Google</a>
+
+    <br><br>
+    <!-- Pseudo classe Elemento 01 -->
+    <p class="exemplo1 exemplo2">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+        Enim cumque aut amet quas? Tenetur vel id inventore sint
+        nostrum obcaecati, ipsam a laborum repellat fugiat, ea
+        dolor officia quia excepturi.
+
+            <!-- Pseudo classe Elemento 02 -->
+    <p class="exemplo2">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+        Enim cumque aut amet quas? Tenetur vel id inventore sint
+        nostrum obcaecati, ipsam a laborum repellat fugiat, ea
+        dolor officia quia excepturi.
+    </p>
+</body>
+</html>

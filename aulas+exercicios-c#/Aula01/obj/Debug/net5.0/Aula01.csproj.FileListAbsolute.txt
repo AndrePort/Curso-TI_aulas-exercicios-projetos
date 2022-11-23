@@ -1,0 +1,32 @@
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.exe
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.deps.json
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.json
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.dll
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\ref\Aula01.dll
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.pdb
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfo.cs
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.dll
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\ref\Aula01.dll
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.pdb
+C:\Users\Aport\Desktop\INf\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.genruntimeconfig.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.exe
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.deps.json
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.json
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.dev.json
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.dll
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\bin\Debug\net5.0\Aula01.pdb
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.csproj.AssemblyReference.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfoInputs.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfo.cs
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.csproj.CoreCompileInputs.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.dll
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\refint\Aula01.dll
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.pdb
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\Aula01.genruntimeconfig.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Aula01\obj\Debug\net5.0\ref\Aula01.dll

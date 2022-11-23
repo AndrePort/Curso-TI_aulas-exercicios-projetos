@@ -1,0 +1,32 @@
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\IFeElse3.exe
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\IFeElse3.deps.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\IFeElse3.runtimeconfig.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\IFeElse3.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\IFeElse3.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\ref\IFeElse3.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\bin\Debug\net5.0\IFeElse3.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.AssemblyInfo.cs
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\ref\IFeElse3.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\IFeElse3\obj\Debug\net5.0\IFeElse3.genruntimeconfig.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\IFeElse3.exe
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\IFeElse3.deps.json
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\IFeElse3.runtimeconfig.json
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\IFeElse3.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\IFeElse3.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\ref\IFeElse3.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\bin\Debug\net5.0\IFeElse3.pdb
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.AssemblyInfo.cs
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\ref\IFeElse3.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.pdb
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL COMPOSTA 3\obj\Debug\net5.0\IFeElse3.genruntimeconfig.cache

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Importando a fonte do site google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nova+Slim&family=Red+Hat+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+    <title>Box Model, Cores e Fontes</title>
+    <style>
+        /* Box Model */
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .teste-box-model{
+            text-align: center;
+            border: 5px solid teal;
+            margin: 20px;
+
+            padding: 5px; /* mesma distância */
+            padding: 5px 5px 5px 5px; /* distância individuais */
+            padding: 5px 5px; /* distâncias vertical e horizontal */
+
+            background: darkmagenta;
+            background: rgb(0, 0, 0); /*0 - 255*/
+            background: hsl(208, 50%, 50%); /*0-360, 0-100%, 0-100%*/
+            background: hsl(174, 82%, 32%); /* 0 - FF #rrggbb */
+        }
+
+        body{
+            background-image: url('fundo.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+
+            color: #fff;
+            height: 300px;
+        }
+
+        .fundo-bonito{
+            background-color: rgba(15, 159, 137, 0.5);
+            padding: 20px;
+            text-align: justify;
+        }
+
+        .fundo-degrade{
+            background-color: #FFFFFF;
+            background-image: linear-gradient(180deg, rgb(156, 104, 0.5) 0%, #6284FF 50%, #FF0000 100%);
+            padding: 20px;
+            text-align: justify;/*radial =  circulo redondo no meio / 100deg anguo que vai começar a cor / 100% quanto a quantidade de cor vai cobrir na "imagem" */
+                                /*justify = justifica o texto*/
+        }
+
+        .fundo-imagem{
+            background: url(https://dibujoskawaii.net/wp-content/uploads/2018/07/pizzas-kawaii.jpg);
+            background-size: cover; /* Adapta a imagem de acordado com a forma da tela*/
+            background-repeat: no-repeat; /* impede que a imagem se repita */
+            background-position: center; /* deixa a imagem no centro*/
+
+            padding: 20px;
+        }
+
+        .div-fonts{
+            background: white;
+            color: black;
+
+            font-size: 30px;
+        }
+
+        .sem-serifa{
+            font-family: 'Arial', 'Verdana', 'Comic Sans', sans-serif;
+            text-decoration: underline; /*underline ou sublinhado */
+        }
+
+        .com-serifa{
+            font-family: 'Times New Roman', 'Times', serif;
+            /* font-style: 'oblique 40deg'; */
+            font-style: italic;
+        }
+
+        .monoespacada{
+            font-family: 'Consolas', monospace;
+        }
+        .cursiva{
+            font-family: cursive;
+        }
+        /* Importando uma fonte */
+        @font-face {
+            font-family: 'Loki Cola';
+            src: url('LOKICOLA.TTF');
+        }
+        /* CONTROL + ; deixa a linha como comentario */
+
+        .personalizada{
+            font-family: 'Loki Cola';
+        }
+        .google{
+            font-family: 'Red Hat Mono', monospace;
+            font-weight: bold; /*bold = negrito / peso da fonte negrito*/
+            font-variant: small-caps;
+
+            /* podem ser escrito tbm dessa forma / font: small-caps 500 italic 'Red Hat Mono', sans-serif; */
+        }
+    </style>
+</head>
+<body>
+    <!-- Box Model -->
+    <div class="teste-box-model">
+        Teste Box Model
+    </div>
+
+    WEIGHT - PESO da fonte(espessura)
+
+    <!-- Fonts-->
+    <div class="div-fonts">
+        <p class="sem-serifa">ETEC João Berlarmino</p> Serifa = perninhas nas letras
+        <p class="com-serifa">ETEC João Berlarmino</p>
+        <p class="monoespacada">ETEC João Berlarmino</p>
+        <p class="cursiva">ETEC João Berlarmino</p>
+        <p class="personalizada">ETEC João Berlarmino personalizada</p>
+        <p class="google">ETEC João Berlarmino personalizada</p>
+    </div>
+
+    <!-- Background-->
+    <p class="fundo-imagem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing 
+        elit. Fusce tincidunt eleifend sagittis. Morbi vitae 
+        eleifend enim. Duis sodales finibus felis, vel 
+        accumsan augue semper a. Curabitur nec dictum 
+        ipsum. Donec interdum viverra ante sed 
+        ultricies. Proin hendrerit mauris at augue sodales 
+        vulputate. Curabitur condimentum vulputate massa 
+        ac accumsan. Nam condimentum lorem sed varius 
+        consequat. In diam mauris, accumsan vel dolor 
+        ut, suscipit accumsan magna. Sed dapibus, turpis 
+        vitae aliquet mattis, felis diam condimentum 
+        nulla, a rhoncus mi leo iaculis odio. Nunc 
+        placerat tempor lacinia. Pellentesque mattis 
+        ipsum nec ante egestas euismod. Duis nisi 
+        est, efficitur eget odio sit amet, dictum 
+        aliquet magna. Donec ac consequat velit. 
+        Pellentesque habitant morbi tristique 
+        senectus et netus et malesuada fames ac turpis 
+        egestas. Fusce et ex odio.
+
+    <p class="fundo-degrade">
+        Lorem ipsum dolor sit amet, consectetur adipiscing 
+        elit. Fusce tincidunt eleifend sagittis. Morbi vitae 
+        eleifend enim. Duis sodales finibus felis, vel 
+        accumsan augue semper a. Curabitur nec dictum 
+        ipsum. Donec interdum viverra ante sed 
+        ultricies. Proin hendrerit mauris at augue sodales 
+        vulputate. Curabitur condimentum vulputate massa 
+        ac accumsan. Nam condimentum lorem sed varius 
+        consequat. In diam mauris, accumsan vel dolor 
+        ut, suscipit accumsan magna. Sed dapibus, turpis 
+        vitae aliquet mattis, felis diam condimentum 
+        nulla, a rhoncus mi leo iaculis odio. Nunc 
+        placerat tempor lacinia. Pellentesque mattis 
+        ipsum nec ante egestas euismod. Duis nisi 
+        est, efficitur eget odio sit amet, dictum 
+        aliquet magna. Donec ac consequat velit. 
+        Pellentesque habitant morbi tristique 
+        senectus et netus et malesuada fames ac turpis 
+        egestas. Fusce et ex odio.
+
+    <p class="fundo-bonito">
+        Lorem ipsum dolor sit amet, consectetur adipiscing 
+        elit. Fusce tincidunt eleifend sagittis. Morbi vitae 
+        eleifend enim. Duis sodales finibus felis, vel 
+        accumsan augue semper a. Curabitur nec dictum 
+        ipsum. Donec interdum viverra ante sed 
+        ultricies. Proin hendrerit mauris at augue sodales 
+        vulputate. Curabitur condimentum vulputate massa 
+        ac accumsan. Nam condimentum lorem sed varius 
+        consequat. In diam mauris, accumsan vel dolor 
+        ut, suscipit accumsan magna. Sed dapibus, turpis 
+        vitae aliquet mattis, felis diam condimentum 
+        nulla, a rhoncus mi leo iaculis odio. Nunc 
+        placerat tempor lacinia. Pellentesque mattis 
+        ipsum nec ante egestas euismod. Duis nisi 
+        est, efficitur eget odio sit amet, dictum 
+        aliquet magna. Donec ac consequat velit. 
+        Pellentesque habitant morbi tristique 
+        senectus et netus et malesuada fames ac turpis 
+        egestas. Fusce et ex odio.
+    </p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+    <p>Qualquer coisa</p>
+</body>
+</html>

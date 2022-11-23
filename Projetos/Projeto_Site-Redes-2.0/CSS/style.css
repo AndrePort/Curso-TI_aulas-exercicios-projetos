@@ -1,0 +1,150 @@
+/*
+========================================================
+Todos
+========================================================
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align:center;
+    font-weight: bolder;
+}
+/*
+========================================================
+Menu do Site / linguagem de marcação
+========================================================
+*/
+nav > ul{
+    list-style-type: none;
+    background-color:palevioletred;
+    border-radius: 4px;
+    box-shadow:10px;
+    padding-left: 0px;
+    
+}
+
+nav > ul li{
+    padding: 10px;
+    transition: 0.2s;
+    text-align: justify center;
+}
+
+button{
+    background-color: palevioletred;
+    color: white;
+    width: 200px; 
+    border: none;
+    padding: 10px;
+    font-weight:bolder;
+    cursor: pointer ;
+}
+
+button:hover{
+    background-color:salmon;
+    color:white;
+    width: 200px;
+    text-decoration:none;
+    padding: 10px ;
+    border-radius: 10px 13px 13px 10px;
+    transition: 0.1s;
+    box-shadow: 2px 2px 2px 2px white;
+}
+/*
+========================================================
+Cores letras
+========================================================
+*/
+h1{
+    color: rgb(121, 0, 0);        
+}
+
+h2{
+    color:rgb(121, 0, 0);
+    font-style: normal;
+}
+
+li{
+    color:coral;
+    font-style: normal;
+}
+
+.texto-branco{
+    color:white;
+    font-style: normal;
+}
+
+.fundo-coral{
+    background:lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#Titulo{
+    color:white;
+    background: lightcoral;
+}
+
+.bg-rosa{
+    background-color:#f8bbd0;
+  }
+
+/*
+========================================================
+Larguras(dimensões)
+========================================================
+*/
+
+/*Largura media*/
+@media screen and (min-width:500px){
+    nav li{
+        display: inline-block; /*inline-block 'deixa o bloco(nav li) todo na mesma linha'*/
+        justify-content: center;
+    }
+    .filme img{
+        width: 20vw;
+    }
+}
+
+/* Largura grande*/
+@media screen and (min-width:1000px){
+    nav li{
+        display:inline-block;
+    }
+    .fim img{
+        width:15vw;
+        max-width: 300px;/*valor fixo*/
+    }
+}
+/*
+========================================================
+Outros
+========================================================
+*/
+.example {
+    text-align: justify center;
+    color:coral;
+}
+
+.table-orange{
+    background-color:coral;
+}
+
+.table{
+    padding: 100%;
+}
+/*
+========================================================
+Links personalizados
+========================================================
+*/
+a:link{
+    color:tomato;
+}
+
+a:visited{
+    color:blue;
+}
+
+a:active{
+    color: black;
+}

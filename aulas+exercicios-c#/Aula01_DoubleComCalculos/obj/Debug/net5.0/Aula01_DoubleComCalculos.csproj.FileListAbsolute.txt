@@ -1,0 +1,32 @@
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.exe
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.deps.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.runtimeconfig.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\ref\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.AssemblyInfo.cs
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\ref\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.genruntimeconfig.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.exe
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.deps.json
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.runtimeconfig.json
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\ref\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\bin\Debug\net5.0\Aula01_DoubleComCalculos.pdb
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.AssemblyInfo.cs
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\ref\Aula01_DoubleComCalculos.dll
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.pdb
+C:\Users\Aport\Desktop\ALL\INf\1° Semestre\Emerson\Programação de Computador I\Aula01_DoubleComCalculos\obj\Debug\net5.0\Aula01_DoubleComCalculos.genruntimeconfig.cache

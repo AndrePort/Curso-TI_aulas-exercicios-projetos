@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxCEqSBMbCuSIIm2aB59YvCrHtwIB9MPA3yv5D4p8MrJLJ1kBjqNI0Y7Lc0jWItcfJiCWNs0kqRBJlTRo2MDeg==",
+  "success": true,
+  "projectFilePath": "D:\\TUDO\\documentos-informatica-2021\\1° Semestre\\Emerson\\Programação de Computador I\\Aula01\\Aula01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aport\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aport\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aport\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aport\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

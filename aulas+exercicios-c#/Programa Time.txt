@@ -1,0 +1,6 @@
+1)
+Crie um programa para ler:
+* O nome de um Time;
+* Quantidade de jogadores;
+* Se a modalidade é masculina ou feminina.
+-> Imprima os resultados

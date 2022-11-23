@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores em CSS</title>
+    <style>
+        /* seletor do tipo TAG, ou seja
+        todas as TAGS desse tipo vão ser
+        formatadas*/
+        h1{
+            color:red;
+        }
+        /*seletor do tipo CLASSE, será uma formatação
+        generica, essa formatação poderá ser utilizada
+        em qualquer tag*/
+        .text-verde{
+            color:blueviolet;
+        }
+        
+        .fundo-cinza{
+            background:pink;
+        }
+        /*Seleotor do tipo ID*/
+        #botao{  /* # = cerquilha diferente de hashtag/sustenido/jogo da velha */
+            background-color: aqua;
+            color:white;
+            padding: 18px; /*espessura interno*/
+            font-weight:bold; /*texto em negrito/ peso da fonte*/
+            border:none; /*sem borda*/
+            border-radius: 5px; /*borda arredondadas*/
+            cursor:pointer; /*cursor do mause(mãozinha)*/
+            width: 280px; /*largura*/
+            height: 80px; /*altura*/
+            transition: 0,5s; /*transição*/
+        }
+        #botao:hover{ 
+            background: pink;
+        
+        }
+        /* Especifidade = Inline/ID/class/tag/ */
+        #meu-h3{
+            color:yellow !important; /*!importante ele força a propriedade a n usar especifidade*/
+        }
+        h3{
+            color: blueviolet;
+        }
+        .texto-vermelho{
+            color:red !important; 
+        }        
+        .texto-marrom{
+            color:brown;
+        }
+        /* TODAS AS TAGS(seletor universal) */
+        *{
+            font-family: sans-serif; /* aplicado essa fonte em tudo*/
+        }
+
+        /*Seletor de atributos
+        "Aplique a cor laranja em todos os botões
+        do tipo reset"*/
+        button[type="reset"]{
+            background-color: orangered;
+            color:white;
+        }
+        
+        h6, h5, h3{
+            color:violet;
+        }
+    </style>
+</head>
+<body>
+    <!-- Especifidade -->
+    <h3 id="meu_h3" class="texto-marrom">Teste</h3>
+
+    <h3 class="texto-marrom texto-vermelho"
+        style="color:gren;">Teste</h3>
+
+    <!-- Seletor de TAG-->
+    <h1>Seletor utilizando a TAG</h1>
+
+    <!--Seletor de classe-->
+    <h2 class="text-verde">Seletor de classe</h2>
+    <p class="text-verde">Seletor de classe</p>
+
+    <!--Combinando classes-->
+    <h4 class="fundo-cinza">
+        Aline meu amorzinho
+    </h4>
+    <h4 class="fundo-cinza text-verde">Aline</h3>
+    
+    <!--Seletor de ID-->
+    <button id="botao">Não Clque</button>
+
+    <!-- Seletor de atributos -->
+    <button type="submit">Enviar</button>
+    <button type="reset">Limpar</button>
+
+    <h3>Qual?</h3>
+    <h5>cor vai</h5>
+    <h6>ficar.....</h6>
+</body>
+</html>

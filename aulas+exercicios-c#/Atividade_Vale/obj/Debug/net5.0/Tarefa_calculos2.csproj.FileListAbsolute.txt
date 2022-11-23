@@ -1,0 +1,32 @@
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.AssemblyInfo.cs
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\Tarefa_calculos2.exe
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\Tarefa_calculos2.deps.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\Tarefa_calculos2.runtimeconfig.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\Tarefa_calculos2.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\Tarefa_calculos2.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\ref\Tarefa_calculos2.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\bin\Debug\net5.0\Tarefa_calculos2.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\ref\Tarefa_calculos2.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Tarefa_calculos2\obj\Debug\net5.0\Tarefa_calculos2.genruntimeconfig.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\bin\Debug\net5.0\Tarefa_calculos2.exe
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\bin\Debug\net5.0\Tarefa_calculos2.deps.json
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\bin\Debug\net5.0\Tarefa_calculos2.runtimeconfig.json
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\bin\Debug\net5.0\Tarefa_calculos2.runtimeconfig.dev.json
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\bin\Debug\net5.0\Tarefa_calculos2.dll
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\bin\Debug\net5.0\Tarefa_calculos2.pdb
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.csproj.AssemblyReference.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.AssemblyInfoInputs.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.AssemblyInfo.cs
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.csproj.CoreCompileInputs.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.dll
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\refint\Tarefa_calculos2.dll
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.pdb
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\Tarefa_calculos2.genruntimeconfig.cache
+D:\TUDO\documentos-informatica-2021\1° Semestre\Emerson\Programação de Computador I\Atividade_Vale\obj\Debug\net5.0\ref\Tarefa_calculos2.dll

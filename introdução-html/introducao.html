@@ -1,0 +1,267 @@
+<!-- Isso é um comnentário -->
+<!-- Imforma o navegador que esse documento utiliza a sua ultima versão -->
+<!DOCTYPE html><!-- "html" criado para enviar arquivos cientificos nas faculdades do passado -->
+<html> <!-- Ferramenta de marcação, taga para adicionar o conteúdo -->
+    <head> <!-- cabeçalio, coloca conf, titulos na aba no site etc-->
+        <meta charset="UTF-8" /> <!-- add matedados, "charset"= conf de caracter /  "UTF-8"= caracter especifico de tal lingua Ex.: ç, ?, *... -->
+        <title>Meu primeiro site</title> <!-- primeiro Título da pagina -->
+    </head>
+    <body> <!-- corpo do site-->
+        Técnico em Informática
+    </body>
+</html>
+    <!-- Títulos -->
+    <h1>Título 1</h1> <!-- por ordem de importancia (máx 6) -->
+    <h2>Título 2</h2>
+    <h3>Título 3</h3>
+    <h4>Título 4</h4>
+    <h5>Título 5</h5>
+    <h6>Título 6</h6>
+
+    <hr> <!-- Separa conteudos, dando um espaço c/ uma linha -->
+
+    <!-- Texto -->
+    <!-- "<br>" quebra de linha-->
+    <p> <!-- paragrafo -->
+        <u> Lorem ipsum dolor</u> <br> sit amet consectetur adipisicing elit.</br> <!-- "<u>"  nome proprio em chinês e grafia errada -->
+        Tenetur <strong>reiciendis soluta</strong>provident quibusdam cum amet <!-- "<strong>"  Da enfase a frase / negrito -->
+        quidem sit ut qui <i>accusantium</i>, odio vel maiores consectetur <!-- "<i>" italico -->
+        minima. <s>Voluptate nostrum</s> assumenda reprehenderit. <!-- "<s>"  Destaca com risco em baixo -->
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Quam, doloremque id, expedita fugit magnam voluptatibus
+        maxime doloribus dolor delectus sunt porro autem dolore at quas
+        voluptatem, vel ratione sequi voluptates.
+
+    </p>
+
+    <hr>
+
+
+    <!--Listas -->
+    <ol> <!-- "<ol>" = ordenados -->
+        <li>Manga</li><!-- "li" cria items na lista -->
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol type="a"> <!-- "type" tipo da lista Ex.: A, a, I, i -->
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol type="A">
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol type="i">
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol type="I">
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol start="10"> <!-- "start" começa a contar desce o 10 Ex.. -->
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol type="i" start="7">
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol reversed> <!-- "reversed" inverte a lista Ex.: 123 p/ 321 -->
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ol>
+
+    <ol start="2020" type="1" reversed >
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+        <ol type="a">
+            <li>semente</li>
+        </ol>
+    </ol>
+
+    <ul> <!-- "<ul>" Lista não ordenado, coloca simbolos em vez de numeros -->
+        <li>Manga</li>
+        <li>Banana</li>
+        <li>Melancia</li>
+        <li>Morango</li>
+    </ul>
+
+    <!-- "<ul>" Lista de definicação / termos -->
+    <dl>
+        <dt>Firefox</dt>                                  <!-- "<dt>"termo-->
+        <dd>Um navegador gráfico gratuito, de código      <!-- "<dd>"descrição-->
+            aberto e multiplataforma desenvolvido pela
+            Mozilla Corporation e centenas de voluntários.</dd>
+
+        <dt>Chrome</dt>
+        <dd>O Google Chrome é um navegador de
+                internet, desenvolvido pela companhia
+                Google com visual minimalista.</dd>
+    </dl>
+
+
+
+    <!-- Listas aninhadas-->
+    <ol>
+        <li>Item</li>
+        <ol>
+            <li>Sub item</li>
+            <li>Sub item</li>
+        </ol>
+        <li>Item</li>
+    </ol>
+
+    <ul>
+        <li>Item</li>
+        <ul>
+            <li>Sub item</li>
+            <li>Sub item</li>
+        </ul>
+        <li>Item</li>
+    </ul>
+
+    <ol>
+        <li>Item</li>
+        <ul>
+            <li>Sub item</li>
+            <li>Sub item</li>
+        </ul>
+        <li>Item</li>
+    </ol>
+
+
+    <hr>
+
+    <!-- Links -->
+    <a href="https://www.google.com/">  <!-- "href" disponibiliza o link, abre na msm pagina o site -->
+        Clique aqui para abrir o Google
+    </a>
+    <br>
+    <a href="https://www.facebook.com/" target="_blank"> <!-- " target="_blank"" abre em outra aba -->
+        Clique aqui para abrir o Facebook
+    </a>
+    <br>
+    <a href="mailto:fulano@etec.sp.gov.br">  <!-- "mailto" abre o Software de Email -->
+        Clique aqui para enviar um email  <!-- ou "fulano@etec.sp.gov.br" mostra o email p/ o envio / ou https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#e-mail_links -->
+    </a>
+    <br>
+    <a href="tel:+5519998365">Liguei para mim</a> <!-- "tel" abre app c/ numero discado ja -->
+    </a>
+    <br>
+    <a href="https://api.whatsapp.com/send?phone=55199999999999 "> <!-- link abre o wtts com o numero convertido em forma de link -->
+        Whatsapp
+    </a>
+
+   <!-- Imagem -->              <!-- scr (source) caminho da imagem, local / link-->
+   <img src="./img/Imagem.jpg"
+        alt="Imagem mostrando rua de uma cidade, onde não apresenta asfalto e calçadas e sim água ao redor das casas"
+        width="200" heigth="200"/> <!-- altura e largura da imagem -->
+        <!-- "img src="./" coloca a imagem presente na msm pasta do programa/ ./ entra na pasta e ../ volta na pasta -->
+
+    <br><br>
+    <!-- Audio Local / link-->
+    <audio controls src="img/musica.mp3" />
+    <br>
+    </audio>
+    <br>
+    <audio controls>
+        <source src="img/musica.mp3" type="audio/mpeg"> <!-- mpeg é um codegi, uma familia de mp3 / opp etc... -->
+    </audio>
+
+    <br><br>
+    <!-- Video Local / Link-->
+    <video controls>
+        <source src="img/mov_bbb.mp4" height="300" width="100">
+    </video>
+    <br>
+    <video controls autoplay>
+        <source src="img/mov_bbb.mp4" type="video/mp4">
+    </video>
+
+    <br><br>
+    <!-- Video do Youtube-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xWqwJoQ62gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <br>
+    <!-- spotify -->
+    <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX0FOF1IUWK1W" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+    <br><br>
+    <!-- tabelas -->
+    <table border="1"> <!-- "border" bordas das tabelas (não utilizado mais) "1" espessura-->
+        <thead> <!-- cabeçalho utilizadas para colunas de titulos -->
+            <tr>
+                <th colspan="4">Produtos</th> <!-- "colspan" mesclar colunas-->
+            </tr>
+            <tr> <!-- "tablerow" dados das tabelas (linhas) -->
+                <th>Categoria</th>
+                <th>ID</th><!-- "tableheader" dados da tabelas / titulos (colunas)-->
+                <th>Nome</th>
+                <th>Preço</th>
+            </tr>
+        </thead> <b></b>
+
+        <tbody> <!-- corpo -->
+            <tr>
+            <tr>
+                <td rowspan="4">Periféricos</td> <!--  "rowspan" mescla linhas -->
+            </tr>
+            <tr>
+                <td>1</td> <!-- "tabledata" dados das tabelas / células (colunas)-->
+                <td>Mouse gamer 8000dpi RGB</td>
+                <td>109,90</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Headset Kraken x Lite - Razer</td>
+                <td>249,99</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Teclado mecânico Gamer T-Dagger</td>
+                <td>159,90</td>
+            </tr>
+        </tbody>
+
+        <tfoot> <!-- rodapé -->
+            <tr>
+            <tr>
+                <th colspan="3">Total</th>
+                <td>R$ 519,79</td>
+            </tr>
+        </tfoot>
+
+    </table>
+
+    <h1>🐱‍👓🎯    </h1> <!-- "Emoji" tecla do windows + ponto final (.)-->
+</body>
+
+</html>

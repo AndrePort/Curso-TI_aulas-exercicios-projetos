@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinadores</title>
+    <style>
+        /* ( ) Combinador descendente Ex: div p */
+        /* (>) Combinador filho Ex: div > p */
+        /* (+) Combinador irmão adjacente Ex: div + p */
+        /* (~) Combinador irmão geral Ex: div ~ p */
+        div p{
+            background: yellow;
+        }
+        /* #cabecalho nav > .link{ exemplo de possibilidade
+            color: turquoise;
+        }
+        */
+        *{
+            margin: 0px;
+            padding:0px;
+        }
+
+        nav > ul{
+            background-color:orange;
+            padding: 10px;
+        }
+
+        nav > ul li{
+            display:inline;
+            margin-left: 5px;
+        }
+
+        nav > ul li a{
+            text-decoration:none;
+            color: white;
+        }
+
+        nav > ul li a:hover{
+            background: orangered;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    
+    <!--<div id="cabecalho">
+        <nav>
+            <p class="link">Será que deu certo?</p>
+        </nav>
+    </div> -->
+
+    <!-- Nav(menu)-->
+    <nav>
+        <ul>
+            <li><a href="">Inicio</a></li>
+            <li><a href="./pages/noticias.html">Noticias</a></li>
+            <li><a href="./pages/Sobre.html">Sobre</a></li>
+        </ul>
+    </nav>
+
+    <div> <!-- "Lorem" texto aleatório-->
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia provident repellendus fugiat maiores, corrupti esse nihil, quia rem impedit eveniet earum. Nisi sequi architecto praesentium rerum repudiandae distinctio necessitatibus porro.</p>
+        <ul>
+            <li>Isso é importante</li>
+            <li>Isso tbm é</li>
+            <li>Isso é tbm, mas não tanto</li>
+        </ul>
+    </div>
+    <div>
+        <p>Parágrafo 1 dentro da div</p>
+        <p>Parágrafo 2 dentro da div</p>
+        <span>
+            <p>Parágrafo 3 dentro da span e dentro da div</p>
+        </span>
+    </div>
+    <p>Parágrafo 4 fora div</p>
+    <p>Parágrafo 5 fora div</p>
+
+</body>
+</html>

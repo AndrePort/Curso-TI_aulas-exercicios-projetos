@@ -1,0 +1,47 @@
+Exercícios IF
+
+1º) Digite dois números. Verifique se o primeiro número é maior que o segundo, se sim divida o primeiro pelo segundo, senão some. Mostre o Resultado.
+
+2º) Digite dois números. Verifique se o primeiro número é menor que o segundo, se sim multiplique o primeiro pelo segundo, senão subtraia. Mostre o Resultado.
+
+3º) Digite dois números. Verifique se os números são iguais se sim multiplique e mostre o Resultado, senão escreva a mensagem, “ Os números são diferentes”.
+
+4º) Agora chegou a hora de avançarmos em condicional. Digite 2 números, Se A>B imprimir “A é maior que B, Se B>A imprimir “B é maior que A” senão imprimir “Os números são iguais”.
+
+Exercícios com While
+
+5º) Faça um algoritmo que leia um numero de entrada. O algoritmo deverá pegar esse numero e fazer uma tabuada.
+
+6º) Escreva um algoritmo que leia 5 nomes usando laço de repetição.
+
+7º) Escreva um algoritmo que conte de 0 à 10 e de 10 à 0, imprimindo o resultado da contagem na ordem crescente e decrescente.
+
+8º) O algoritmo terá que ler 1 vez o nome do usuário e um número. Após essas entradas terá que fazer o cálculo do valor digitado de 5 em 5 chegando ao valor 100 ou mais o programa deve ser encerrado.
+
+9º) A loja “ Casas da Chica” quer saber a média de salário que para a seus funcionários. A loja não tem uma quantidade certa de funcionários, portanto faça um algoritmo que sempre pergunte quantos funcionários a loja tem para que a partir disso seja construído o laço para digitação dos salários.
+
+10º) Faça um algoritmo que descubra se o número que foi digitado é primo. Obs:- O número primo é qualquer número maior que 1 e que somente é divisível por 1 e por ele mesmo Exemplo: 2 é primo pois é divisível por 2 e por 1, 4 não é primo, pois é divisível por 1 e por ele mesmo, porém também é divisível por 2.
+
+//aprendemos em aula
+while (opcao == "S" || opcao == "s")
+{
+ 
+}
+----------------------------------------------------------------------------------------------------------------------------------------
+//variável contador
+int cont = 0;
+ 
+//Exemplo de laço que precisarão usar no exercício
+while(cont <= 10)
+{
+  <comando 1>
+  <comando 2>
+       .
+       .
+       .
+  <comando n>
+ 
+  //acumulando valor no contador
+  cont = cont + 1;
+}
+------------------------------------------------

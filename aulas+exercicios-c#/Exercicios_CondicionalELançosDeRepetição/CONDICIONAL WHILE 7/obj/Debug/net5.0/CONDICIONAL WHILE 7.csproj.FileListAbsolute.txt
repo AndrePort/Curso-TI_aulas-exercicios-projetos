@@ -1,0 +1,16 @@
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.csprojAssemblyReference.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.AssemblyInfoInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.AssemblyInfo.cs
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.csproj.CoreCompileInputs.cache
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\CONDICIONAL WHILE 7.exe
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\CONDICIONAL WHILE 7.deps.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\CONDICIONAL WHILE 7.runtimeconfig.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\CONDICIONAL WHILE 7.runtimeconfig.dev.json
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\CONDICIONAL WHILE 7.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\ref\CONDICIONAL WHILE 7.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\bin\Debug\net5.0\CONDICIONAL WHILE 7.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\ref\CONDICIONAL WHILE 7.dll
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.pdb
+C:\Users\Aport\Desktop\INf\Emerson\Programação de Computador I\Exercicios_CondicionalELançosDeRepetição\CONDICIONAL WHILE 7\obj\Debug\net5.0\CONDICIONAL WHILE 7.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CONDICIONAL WHILE 5/1.0.0": {
+        "runtime": {
+          "CONDICIONAL WHILE 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CONDICIONAL WHILE 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
